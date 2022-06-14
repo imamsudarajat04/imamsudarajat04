@@ -10,7 +10,7 @@ Currently working as Full Stack Development
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
+    - 🔭 I’m currently working on Website Development </br>
     - 🌱 I’m currently learning Laravel, ReactJs, VueJs and Flutter </br>
     - 👯 I’m looking to collaborate on Website Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
