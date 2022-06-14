@@ -27,5 +27,5 @@ Currently working as Full Stack Development
 ### Let's connect!
 <p>
   <a href="https://www.instagram.com/imamsudarajat4/" target="blank"><img src="https://img.shields.io/badge/@ISudarajat_-30302f?style=flat&logo=instagram" /></a>
-  <a href="https://twitter.com/ISudarajat" target="blank"><img src="https://img.shields.io/badge/@ISudarajat_-30302f?style=flat&logo=twitter" /></a>
+  <a href="https://twitter.com/ISudarajat" target="blank"><img src="https://img.shields.io/badge/@imamsudarajat4_-30302f?style=flat&logo=twitter" /></a>
 </p>
