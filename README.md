@@ -15,7 +15,7 @@ Currently working as Full Stack Development
     - 👯 I’m looking to collaborate on Website Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:imamsudrajat707@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:kazeonets04@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
