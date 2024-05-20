@@ -4,8 +4,8 @@
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on Website Development </br>
-    - 🌱 I’m currently learning Laravel and VueJS </br>
+    - 🔭 I’m currently working on Website Development.</br>
+    - 🌱 I’m currently learning Laravel and VueJS.</br>
     - 👯 I’m looking to collaborate on Website Project. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
