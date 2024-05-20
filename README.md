@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Imam Sudarajat</h1>
-<h3 align="center">Currently working as Full Stack Development</h3>
+<h3 align="center">Currently freelance as Full Stack Development</h3>
 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on Website Development </br>
-    - 🌱 I’m currently learning Laravel, ReactJs, VueJs and Flutter </br>
-    - 👯 I’m looking to collaborate on Website Project, Mobile Apps. </br>
+    - 🌱 I’m currently learning Laravel and VueJS </br>
+    - 👯 I’m looking to collaborate on Website Project. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:kazeonets04@gmail.com">Email me!</a>  </br>
