@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imam Sudarajat</h1>
-<h3 align="center">Currently freelance as Full Stack Development</h3>
+<h3 align="center">Currently working as Full Stack Development</h3>
 
 ### Stats:
 <details>
